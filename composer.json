@@ -1,0 +1,8 @@
+{
+    "name": "image/abstractor",
+    "description": "Convert an image to hex code",
+    "license": "GPL",
+    "require": {
+        "league/color-extractor": "0.3.*"
+    }
+}
